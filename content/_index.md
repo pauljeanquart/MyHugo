@@ -1,7 +1,6 @@
 +++
-title = 'My first page'
-date = 2024-01-28T17:01:53-06:00
+title = "Home sweet home"
 draft = false
 +++
 
-# Hello World 2!
+This page has **bold** and *italics* formatting.
